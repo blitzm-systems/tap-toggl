@@ -86,7 +86,8 @@
     "email": "string",
     "at": "date-time",
     "name": "string",
-    "invite_url": "string"
+    "invite_url": "string",
+    "group_ids": ["string"]
   },
   "time_entries": {
     "total_grand": "integer",

@@ -16,6 +16,18 @@
         "string"
       ]
     },
+    "project_color": {
+      "type": [
+        "null",
+        "string"
+      ]
+    },
+    "project_hex_color": {
+      "type": [
+        "null",
+        "string"
+      ]
+    },
     "premium": {
       "type": [
         "null",
