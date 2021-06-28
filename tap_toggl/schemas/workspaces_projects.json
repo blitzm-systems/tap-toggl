@@ -16,6 +16,18 @@
         "integer"
       ]
     },
+    "estimated_hours": {
+      "type": [
+        "null",
+        "integer"
+      ]
+    },
+    "actual_hours": {
+      "type": [
+        "null",
+        "integer"
+      ]
+    },
     "cid": {
       "type": [
         "null",
@@ -23,6 +35,24 @@
       ]
     },
     "name": {
+      "type": [
+        "null",
+        "string"
+      ]
+    },
+    "currency": {
+      "type": [
+        "null",
+        "string"
+      ]
+    },
+    "color": {
+      "type": [
+        "null",
+        "string"
+      ]
+    },
+    "hex_color": {
       "type": [
         "null",
         "string"
@@ -40,11 +70,30 @@
         "boolean"
       ]
     },
+    "auto_estimates": {
+      "type": [
+        "null",
+        "boolean"
+      ]
+    },
     "active": {
       "type": [
         "null",
         "boolean"
       ]
+    },
+    "template": {
+      "type": [
+        "null",
+        "boolean"
+      ]
+    },
+    "created_at": {
+      "type": [
+        "null",
+        "string"
+      ],
+      "format": "date-time"
     },
     "at": {
       "type": [

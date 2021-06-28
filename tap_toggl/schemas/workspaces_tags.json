@@ -21,6 +21,13 @@
         "null",
         "string"
       ]
+    },
+    "at": {
+      "type": [
+        "null",
+        "string"
+      ],
+      "format": "date-time"
     }
   }
 }

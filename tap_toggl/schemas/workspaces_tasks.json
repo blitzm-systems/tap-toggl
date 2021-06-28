@@ -52,6 +52,12 @@
         "null",
         "integer"
       ]
+    },
+    "tracked_seconds": {
+      "type": [
+        "null",
+        "integer"
+      ]
     }
   }
 }

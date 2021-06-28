@@ -131,7 +131,50 @@
         "boolean"
       ]
     },
+    "openid_enabled": {
+      "type": [
+        "null",
+        "boolean"
+      ]
+    },
+    "send_product_emails": {
+      "type": [
+        "null",
+        "boolean"
+      ]
+    },
+    "send_timer_notifications": {
+      "type": [
+        "null",
+        "boolean"
+      ]
+    },
+    "send_weekly_report": {
+      "type": [
+        "null",
+        "boolean"
+      ]
+    },
+    "timezone": {
+      "type": [
+        "null",
+        "string"
+      ]
+    },
     "invitation": {
+      "type": [
+        "null",
+        "string"
+      ]
+    },
+    "created_at": {
+      "type": [
+        "null",
+        "string"
+      ],
+      "format": "date-time"
+    },
+    "duration_format": {
       "type": [
         "null",
         "string"

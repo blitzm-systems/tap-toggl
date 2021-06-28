@@ -34,7 +34,31 @@
         "boolean"
       ]
     },
+    "inactive": {
+      "type": [
+        "null",
+        "boolean"
+      ]
+    },
+    "owner": {
+      "type": [
+        "null",
+        "boolean"
+      ]
+    },
     "email": {
+      "type": [
+        "null",
+        "string"
+      ]
+    },
+    "rate": {
+      "type": [
+        "null",
+        "integer"
+      ]
+    },
+    "invitation_code": {
       "type": [
         "null",
         "string"
@@ -53,11 +77,36 @@
         "string"
       ]
     },
+    "labour_cost": {
+      "type": [
+        "null",
+        "integer"
+      ]
+    },
     "invite_url": {
       "type": [
         "null",
         "string"
       ]
+    },
+    "avatar_file_name": {
+      "type": [
+        "null",
+        "string"
+      ]
+    },
+    "timezone": {
+      "type": [
+        "null",
+        "string"
+      ]
+    },
+    "group_ids": {
+      "type": [
+        "null",
+        "array"
+      ],
+      "items": {}
     }
   }
 }
